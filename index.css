@@ -1,0 +1,10 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+
+header{
+    background: url(./images/me-dumbo.jpeg);
+    background-size: cover;
+    height: 40vh;
+}
